@@ -1,6 +1,6 @@
-## Olá, bem-vindos ao meu perfil no GitHub ❤️👋
+### Olá, bem-vindos ao meu perfil no GitHub ❤️👋
 
-- Meu nome é Maria Eduarda.
+- Meu nome é **Maria Eduarda**.
 - Sou aluna da Escola Isac de Dracena.
 - Tenho aulas de Tecnologia com o Professor Jocimar e estamos fazendo programações através das plataformas [scratch](https://scratch.mit.edu) e [JavaScript](https://editor.p5js.org/).
   
